@@ -1,4 +1,3 @@
-# Community Agreement
 # Community Agreements
 
 ## **Cultivate a brave space**
